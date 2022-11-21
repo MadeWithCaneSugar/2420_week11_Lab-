@@ -90,5 +90,5 @@ for me, this script looks like this:
 ![Script](images/timer.PNG)
 
 Contributors:
-Mitchel Webb
-Kazi Wahedullah
+* Mitchel Webb
+* Kazi Wahedullah
